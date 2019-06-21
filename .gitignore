@@ -1,6 +1,5 @@
 *.out
 ram*.txt
-/*.C
 *.so
 *.o
 *.pyc
